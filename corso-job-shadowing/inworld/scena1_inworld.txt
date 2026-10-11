@@ -1,0 +1,12 @@
+Immagina di passare una settimana dentro un'organizzazione, in un altro Paese europeo. <break time="600ms" />
+Non in aula. <break time="300ms" /> E nemmeno da turista. <break time="400ms" /> Dentro. <break time="800ms" />
+Ti siedi accanto ai colleghi, guardi come lavorano, fai domande, e ti porti a casa metodi che da noi quasi nessuno usa. <break time="600ms" />
+Viaggio e soggiorno? <break time="400ms" /> Sono coperti da un contributo dell'Unione Europea. <break time="1s" />
+
+Si chiama job shadowing. <break time="700ms" />
+È una delle attività di Erasmus plus meno conosciute. <break time="400ms" /> E quando ne parli, la prima reazione è quasi sempre: <break time="300ms" /> "ma esiste davvero?" <break time="800ms" />
+Esiste. <break time="500ms" /> Però ha regole precise, <break time="300ms" /> e chi non le conosce perde mesi. <break time="1s" />
+
+In questa lezione te le do tutte, dall'inizio. <break time="500ms" />
+Cos'è, chi può farlo, chi paga, come si trova l'organizzazione che ti ospita, e come si costruisce, giorno per giorno. <break time="600ms" />
+In fondo trovi gli errori più comuni, così li eviti prima ancora di cominciare.
