@@ -3,10 +3,10 @@ Non in aula. <break time="300ms" /> E nemmeno da turista. <break time="400ms" />
 Ti siedi accanto ai colleghi, guardi come lavorano, fai domande, e ti porti a casa metodi che da noi quasi nessuno usa. <break time="600ms" />
 Viaggio e soggiorno? <break time="400ms" /> Sono coperti da un contributo dell'Unione Europea. <break time="1s" />
 
-[breathe] Si chiama job shadowing. <break time="700ms" />
-È una delle attività di Erasmus plus meno conosciute. <break time="400ms" /> E quando ne parli, la prima reazione è quasi sempre: <break time="300ms" /> "ma esiste davvero?" <break time="800ms" />
-Esiste. <break time="500ms" /> Però ha regole precise, <break time="300ms" /> e chi non le conosce perde mesi. <break time="1s" />
+[breathe] Si chiama job shadowing. <break time="400ms" />
+È una delle attività di Erasmus plas meno conosciute. <break time="300ms" /> E quando ne parli, la prima reazione è quasi sempre: <break time="250ms" /> "ma esiste davvero?" <break time="600ms" />
+Esiste. <break time="500ms" /> Però ha regole precise, <break time="150ms" /> e chi non le conosce perde mesi. <break time="900ms" />
 
-[breathe] In questa lezione te le do tutte, dall'inizio. <break time="500ms" />
-Cos'è, chi può farlo, chi paga, come si trova l'organizzazione che ti ospita, e come si costruisce, giorno per giorno. <break time="600ms" />
-In fondo trovi gli errori più comuni, così li eviti prima ancora di cominciare.
+[breathe] In questa lezione te le do TUUUTTE, <break time="200ms" /> dall'inizio. <break time="400ms" />
+Cos'è, <break time="150ms" /> chi può farlo, <break time="150ms" /> chi paga, <break time="150ms" /> come si trova l'organizzazione che ti ospita, <break time="200ms" /> e come si costruisce, giorno per giorno. <break time="500ms" />
+In fondo trovi gli errori più comuni, <break time="150ms" /> così li eviti prima ancora di cominciare.
